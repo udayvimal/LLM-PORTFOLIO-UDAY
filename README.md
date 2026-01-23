@@ -16,7 +16,7 @@ Every project is implemented end-to-end — from data processing and model integ
 🏆 Top 5 Agentic AI Projects
 1️⃣ Blood Test Analyzer — CrewAI Medical Agent
 
-An autonomous medical reporting agent that analyzes blood test PDFs and generates a clear medical summary.
+An autonomous medical reporting agent that analyzes blood test PDFs and generates  clear medical summary.
 
 Features
 
